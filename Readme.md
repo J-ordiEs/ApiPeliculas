@@ -9,6 +9,7 @@ Crea con Postman un crud a la Api de películas
   ``
   npm install
   ``
+  ``
   npm install -g json-server
   ``
 
