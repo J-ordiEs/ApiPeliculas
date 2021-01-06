@@ -1,0 +1,20 @@
+{
+    "name": "apipeliculas",
+    "version": "1.0.0",
+    "description": "Crea con Postman un crud a la Api de películas",
+    "main": "index.js",
+    "scripts": {
+        "server": "json-server peliculas.json --watch peliculas.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/J-ordiEs/ApiPeliculas.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/J-ordiEs/ApiPeliculas/issues"
+    },
+    "homepage": "https://github.com/J-ordiEs/ApiPeliculas#readme"
+}

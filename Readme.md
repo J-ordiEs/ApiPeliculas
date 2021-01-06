@@ -6,21 +6,21 @@ Crea con Postman un crud a la Api de películas
 
 - Instala en global el servidor de la Fake Api
 
-    sudo npm install -g json-server
+  npm install
+  npm install -g json-server
 
 - Ejecuta el json
 
-    json-server --watch peliculas.json
+  npm run server
 
 - Instala Postman
 
-    https://www.postman.com/
+  https://www.postman.com/
 
 - Crea un Crud en Postman
 
 - Crea un crud en un frontend.
 
-    Utiliza una carpeta ./public/index.html para sustituir la página de inicio.
+  Utiliza una carpeta ./public/index.html para sustituir la página de inicio.
 
 - Modifica el Json a tu gusto y añade imágenes de portada de las películas
-
