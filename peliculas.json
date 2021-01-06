@@ -1,73 +1,90 @@
 {
-  "peliculas": [
-    {
-      "id": 2,
-      "nombre": "Pulp Fiction",
-      "director": "Tarantino",
-      "clasificacion": "Acción"
-    },
-    {
-      "id": 4,
-      "nombre": "300",
-      "director": "Zack Snyder",
-      "clasificacion": "Acción"
-    },
-    {
-      "id": 5,
-      "nombre": "El silencio de los corderos",
-      "director": "Jonathan Demme",
-      "clasificacion": "Drama"
-    },
-    {
-      "id": 6,
-      "nombre": "Forrest Gump",
-      "director": "Robert Zemeckis",
-      "clasificacion": "Comedia"
-    },
-    {
-      "id": 7,
-      "nombre": "Las Hurdes",
-      "director": "Luis Buñuel",
-      "clasificacion": "Documental"
-    },
-    {
-      "id": 8
-    },
-    {
-      "nombre": "El sexto sentido",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
-      "id": 9
-    },
-    {
-      "nombre": "Sagan",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
-      "id": 10
-    },
-    {
-      "nombre": "Batman",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
-      "id": 11
-    }
-  ],
-  "clasificaciones": [
-    {
-      "nombre": "Drama",
-      "id": 1
-    },
-    {
-      "nombre": "Comedia",
-      "id": 2
-    },
-    {
-      "nombre": "Documental",
-      "id": 3
-    },
-    {
-      "nombre": "Acción",
-      "id": 4
-    }
-  ]
+    "peliculas": [{
+            "id": 2,
+            "nombre": "Pulp Fiction",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUTnNVTW8xT3y97qIZ8op9FNtIXzmp6TPDcC0qpqTvvKNV9YT",
+            "director": "Tarantino",
+            "clasificacion": "Acción"
+        },
+        {
+            "id": 3,
+            "nombre": "Interestelar",
+            "imagen": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/interstellar/posters/18799170-1-esl-ES/Posters.jpg?resize=480:*",
+            "director": "Christopher Noland",
+            "clasificacion": "Acción"
+        },
+        {
+            "id": 4,
+            "nombre": "300",
+            "imagen": "https://pics.filmaffinity.com/300-274692460-large.jpg",
+            "director": "Zack Snyder",
+            "clasificacion": "Acción"
+        },
+        {
+            "id": 5,
+            "nombre": "El show de Truman",
+            "imagen": "https://pics.filmaffinity.com/El_show_de_Truman_Una_vida_en_directo-130091557-large.jpg",
+            "director": "Petter Weit",
+            "clasificacion": "Comedia"
+        },
+        {
+            "id": 6,
+            "nombre": "Forrest Gump",
+            "imagen": "https://pics.filmaffinity.com/Forrest_Gump-212765827-mmed.jpg",
+            "director": "Robert Zemeckis",
+            "clasificacion": "Comedia"
+        },
+        {
+            "id": 7,
+            "nombre": "Las Hurdes",
+            "imagen": "https://pics.filmaffinity.com/Las_Hurdes_Tierra_sin_pan-618902623-mmed.jpg",
+            "director": "Luis Buñuel",
+            "clasificacion": "Documental"
+        },
+        {
+            "id": 8,
+            "nombre": "Malditos Bastardos",
+            "imagen": "https://pics.filmaffinity.com/Malditos_bastardos-976286054-large.jpg",
+            "director": "Tarantino",
+            "clasificacion": "Acción"
+        },
+        {
+            "id": 9,
+            "nombre": "El sexto sentido",
+            "imagen": "https://pics.filmaffinity.com/El_sexto_sentido-351070748-large.jpg",
+            "director": "M. Night Shyamalan",
+            "clasificacion": "Drama"
+        },
+        {
+            "id": 10,
+            "nombre": "Origen",
+            "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/72/41/74/20198901.jpg",
+            "director": "Christopher Noland",
+            "clasificacion": "Acción"
+        },
+        {
+            "id": 11,
+            "nombre": "Jocker",
+            "imagen": "https://pics.filmaffinity.com/Joker-118854213-large.jpg",
+            "director": "Todd Phillips",
+            "clasificacion": "Drama"
+        }
+    ],
+    "clasificaciones": [{
+            "nombre": "Drama",
+            "id": 1
+        },
+        {
+            "nombre": "Comedia",
+            "id": 2
+        },
+        {
+            "nombre": "Documental",
+            "id": 3
+        },
+        {
+            "nombre": "Acción",
+            "id": 4
+        }
+    ]
 }
