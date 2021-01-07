@@ -6,8 +6,12 @@ Crea con Postman un crud a la Api de películas
 
 - Instala en global el servidor de la Fake Api
 
+  ``
   npm install
+  ``
+  ``
   npm install -g json-server
+  ``
 
 - Ejecuta el json
 
