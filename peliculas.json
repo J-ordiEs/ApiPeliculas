@@ -2,7 +2,7 @@
   "peliculas": [
     {
       "id": 1,
-      "nombre": "Pulp Fiction",
+      "nombre": "Pulp Fiction 2",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUTnNVTW8xT3y97qIZ8op9FNtIXzmp6TPDcC0qpqTvvKNV9YT",
       "sinopsis": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención.",
       "director": "Tarantino",
@@ -17,12 +17,28 @@
       "clasificacion": "Acción"
     },
     {
-      "nombre": "Abominable",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLkjTSKwTeDBfUHSz_O39NsHdS84NZekGfxC4xHnykvwkzxOQS",
-      "director": "Jill Culton",
-      "sinopsis": "La joven Yi descubre a un enorme yeti en la azotea de su edificio en Shanghái. La criatura se ha escapado del laboratorio donde estaba encerrada y está siendo buscada por toda la ciudad. Junto con sus ingeniosos amigos Jin y Peng, Yi decide ayudarle a huir y los cuatro se embarcan en una épica avent… ",
-      "clasificacion": "Infantil",
+      "nombre": "Rocky",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/51xzgsOYaZL._SY445_.jpg",
+      "director": "John G. Avildsen",
+      "sinopsis": "Un humilde boxeador de Filadelfia, en el que nadie cree, tiene la oportunidad de cambiar su vida por completo si lucha por el título mundial contra el temible Apollo Creed.",
+      "clasificacion": "Drama",
       "id": 4
+    },
+    {
+      "nombre": "Orgullo y prejuicio",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwqcn98rUDC5rn2jLJwvJjvT2vIOCfBRLqlwTiITfZzuBA1C5M",
+      "director": "Joe Wright",
+      "sinopsis": "Es una película británica del año 2005 del género romántico basada en la novela homónima de Jane Austen publicada ...",
+      "clasificacion": "Drama",
+      "id": 6
+    },
+    {
+      "nombre": "Orgullo y prejuicio",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwqcn98rUDC5rn2jLJwvJjvT2vIOCfBRLqlwTiITfZzuBA1C5M",
+      "director": "Joe Wright",
+      "sinopsis": "Es una película británica del año 2005 del género romántico basada en la novela homónima de Jane Austen publicada ...",
+      "clasificacion": "Drama",
+      "id": 7
     }
   ],
   "clasificaciones": [
