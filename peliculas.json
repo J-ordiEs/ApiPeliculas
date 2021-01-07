@@ -17,7 +17,7 @@
       "clasificacion": "Acción"
     },
     {
-      "nombre": "Rocky",
+      "nombre": "Rocky 2",
       "imagen": "https://images-na.ssl-images-amazon.com/images/I/51xzgsOYaZL._SY445_.jpg",
       "director": "John G. Avildsen",
       "sinopsis": "Un humilde boxeador de Filadelfia, en el que nadie cree, tiene la oportunidad de cambiar su vida por completo si lucha por el título mundial contra el temible Apollo Creed.",
@@ -25,15 +25,7 @@
       "id": 4
     },
     {
-      "nombre": "Orgullo y prejuicio",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwqcn98rUDC5rn2jLJwvJjvT2vIOCfBRLqlwTiITfZzuBA1C5M",
-      "director": "Joe Wright",
-      "sinopsis": "Es una película británica del año 2005 del género romántico basada en la novela homónima de Jane Austen publicada ...",
-      "clasificacion": "Drama",
-      "id": 6
-    },
-    {
-      "nombre": "Orgullo y prejuicio",
+      "nombre": "Orgullo y prejuicio 2",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwqcn98rUDC5rn2jLJwvJjvT2vIOCfBRLqlwTiITfZzuBA1C5M",
       "director": "Joe Wright",
       "sinopsis": "Es una película británica del año 2005 del género romántico basada en la novela homónima de Jane Austen publicada ...",

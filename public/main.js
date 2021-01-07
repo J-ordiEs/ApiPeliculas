@@ -92,7 +92,8 @@ movieList.addEventListener("click", (e) => {
 
 // Create - Insert new movie
 //Method: POST
-addMovieForm.addEventListener("submit", () => {
+addMovieForm.addEventListener("submit", (e) => {
+    e.preventDefault();
     fetch(url, {
             method: "POST",
             headers: {
