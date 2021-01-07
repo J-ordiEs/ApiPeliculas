@@ -1,4 +1,18 @@
+body {
+    background-color: #161b22;
+}
+
+.card-img-top {
+    height: 23rem;
+    width: 16rem;
+}
+
 .card {
+    background-color: #30363d;
     width: 18rem;
     margin: 1rem;
+}
+
+.display-1 {
+    text-align: center;
 }
