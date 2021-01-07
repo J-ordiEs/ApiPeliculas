@@ -1,36 +1,46 @@
 {
-    "peliculas": [{
-            "id": 1,
-            "nombre": "Pulp Fiction",
-            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUTnNVTW8xT3y97qIZ8op9FNtIXzmp6TPDcC0qpqTvvKNV9YT",
-            "sinopsis": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención.",
-            "director": "Tarantino",
-            "clasificacion": "Acción"
-        },
-        {
-            "id": 2,
-            "nombre": "Interestelar",
-            "imagen": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/interstellar/posters/18799170-1-esl-ES/Posters.jpg?resize=480:*",
-            "sinopsis": "Gracias a un descubrimiento, un grupo de científicos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida allí.",
-            "director": "Christopher Noland",
-            "clasificacion": "Acción"
-        }
-    ],
-    "clasificaciones": [{
-            "nombre": "Drama",
-            "id": 1
-        },
-        {
-            "nombre": "Comedia",
-            "id": 2
-        },
-        {
-            "nombre": "Documental",
-            "id": 3
-        },
-        {
-            "nombre": "Acción",
-            "id": 4
-        }
-    ]
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Pulp Fiction",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUTnNVTW8xT3y97qIZ8op9FNtIXzmp6TPDcC0qpqTvvKNV9YT",
+      "sinopsis": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención.",
+      "director": "Tarantino",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 2,
+      "nombre": "Interestelar",
+      "imagen": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/interstellar/posters/18799170-1-esl-ES/Posters.jpg?resize=480:*",
+      "sinopsis": "Gracias a un descubrimiento, un grupo de científicos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida allí.",
+      "director": "Christopher Noland",
+      "clasificacion": "Acción"
+    },
+    {
+      "nombre": "Abominable",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLkjTSKwTeDBfUHSz_O39NsHdS84NZekGfxC4xHnykvwkzxOQS",
+      "director": "Jill Culton",
+      "sinopsis": "La joven Yi descubre a un enorme yeti en la azotea de su edificio en Shanghái. La criatura se ha escapado del laboratorio donde estaba encerrada y está siendo buscada por toda la ciudad. Junto con sus ingeniosos amigos Jin y Peng, Yi decide ayudarle a huir y los cuatro se embarcan en una épica avent… ",
+      "clasificacion": "Infantil",
+      "id": 4
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
 }
